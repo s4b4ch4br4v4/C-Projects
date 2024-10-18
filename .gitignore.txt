@@ -1,0 +1,5 @@
+# Ignore application executables
+myfirstexperience
+
+# Ignore build artifacts
+main.o
