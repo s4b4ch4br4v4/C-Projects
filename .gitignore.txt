@@ -1,0 +1,13 @@
+# Ignore compiled binary and intermediate files
+bin/
+obj/
+
+# Ignore IDE-specific project files
+mysecondexperience.cbp
+mysecondexperience.depend
+
+# Ignore application executables
+main.exe
+
+# Ignore build artifacts
+main.o
